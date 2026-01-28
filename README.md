@@ -32,6 +32,8 @@ Control ventilation automatically
 
 Integrate with Philips Hue devices for environmental automation
 
+---
+
 📸 Demo & Setup Images
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://raw.githubusercontent.com/tosilfv/Raspberry-air-quality-control/main/raspberry_air_quality/images/hvac_air_intake_vent.png" width="200"/> <img src="https://raw.githubusercontent.com/tosilfv/Raspberry-air-quality-control/main/raspberry_air_quality/images/raspberry_sensor.png" width="200"/> <img src="https://raw.githubusercontent.com/tosilfv/Raspberry-air-quality-control/main/raspberry_air_quality/images/philips_hue_bridge.png" width="200"/> <img src="https://raw.githubusercontent.com/tosilfv/Raspberry-air-quality-control/main/raspberry_air_quality/images/philips_hue_smart_plug.png" width="200"/> </div>
 <br />
@@ -43,3 +45,4 @@ Modular, maintainable Python code for small automation systems.
 Designed for hands-on learning and practical automation projects.
 
 Extendable with additional sensors or smart devices.
+
