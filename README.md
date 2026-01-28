@@ -18,8 +18,8 @@ cd Raspberry-air-quality-control
 pip install -r requirements.txt
 ```
 
+### 🚀 Usage
 3. Configure config.py with your sensor and Philips Hue device IDs:
-🚀 Usage
 ```bash
 python main.py
 ```
@@ -45,4 +45,5 @@ Modular, maintainable Python code for small automation systems.
 Designed for hands-on learning and practical automation projects.
 
 Extendable with additional sensors or smart devices.
+
 
