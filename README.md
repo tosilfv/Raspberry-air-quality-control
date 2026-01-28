@@ -1,4 +1,4 @@
-# Raspberry HVAC Air Quality Control
+# Home Automation Project
 
 A Python project for Raspberry Pi 4 that measures air quality using the Sensirion Sen5x I2C sensor and automatically controls ventilation. It also integrates with Philips Hue smart devices to optimize the environment.
 
@@ -60,6 +60,16 @@ The system...
  - Philips Hue control requires the bridge IP and a registered application. Registration only needs to be done once using b.connect(). After that, the line can be commented out.
 
  - The code includes error handling and automatically resets the sensor when needed.
+
+### ⚠️ Disclaimer
+
+This project is provided for educational and experimental purposes only.
+
+The software is provided "as is", without warranty of any kind.  
+Use of this code to control real hardware, electrical devices, or ventilation systems is done entirely at your own risk.
+
+The author assumes no responsibility for any damage, malfunction, or safety issues resulting from the use of this project.
+
 <br />
 
 📸 Demo & Setup Images
@@ -71,3 +81,4 @@ The system...
  - Modular and maintainable Python code for small automation projects
 
  - Easy to extend with additional sensors or smart devices
+
